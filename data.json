@@ -18,5 +18,30 @@
     "file": "experiments/matrix4.js",
     "name": "Matrix 4",
     "description": "Inspired heavily by The Matrix movie this artwork showcases a idea where there are two matrixes coexisting and overlapping with each other, one taking in more focus than the other. One matrix being more organized while the other more messy looking."
+  },
+  {
+    "file": "experiments/grid.js",
+    "name": "Grid 1",
+    "description": "Inspired by Garrits grid example from the lecture I played around with squares and different ways of using random."
+  },
+  {
+    "file": "experiments/grid2.js",
+    "name": "Grid 2",
+    "description": "Inspired by Garrits grid example from the lecture I modified the first grid artwork and played with stroke weights and how to implement deptness and illusion feel to the art."
+  },
+  {
+    "file": "experiments/grid3.js",
+    "name": "Grid 3",
+    "description": "Inspired by Garrits grid example from the lecture I modified the grid artwork with random colors and feeling of flatness in comparison to the previous art."
+  },
+  {
+    "file": "experiments/noise.js",
+    "name": "Noise 1",
+    "description": "Inspired by Garrits grid example from the lecture I played around with how to use noise and different colors."
+  },
+  {
+    "file": "experiments/noise2.js",
+    "name": "Noise 2",
+    "description": "Inspired by Garrits grid example from the lecture I modified the previous example and played with noise value and different shapes ."
   }
 ]
