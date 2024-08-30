@@ -1,7 +1,22 @@
 [
   {
-    "file": "experiments/example.js",
-    "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+    "file": "experiments/matrix1.js",
+    "name": "Matrix 1",
+    "description": "Inspired heavily by The Matrix movie this artwork showcases the basic matrix form where numbers ranging from 1 to 10 fall down in lines, generate at random x positions and overlap with eachother presenting the complexity of the matrix."
+  },
+  {
+    "file": "experiments/matrix2.js",
+    "name": "Matrix 2",
+    "description": "Inspired heavily by The Matrix movie this artwork showcases the matrix in a grid form, forming a union while some numbers are sticking out and falling out of the matrix."
+  },
+  {
+    "file": "experiments/matrix3.js",
+    "name": "Matrix 3",
+    "description": "Inspired heavily by The Matrix movie this artwork showcases a similar variation of the first artwork but with slight changes like adding the opacity to create a feel of dept while also adding the fallen out numbers to indicate some type of errors."
+  },
+  {
+    "file": "experiments/matrix4.js",
+    "name": "Matrix 4",
+    "description": "Inspired heavily by The Matrix movie this artwork showcases a idea where there are two matrixes coexisting and overlapping with each other, one taking in more focus than the other. One matrix being more organized while the other more messy looking."
   }
 ]
