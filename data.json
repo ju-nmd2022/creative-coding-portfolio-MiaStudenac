@@ -20,28 +20,43 @@
     "description": "Inspired heavily by The Matrix movie this artwork showcases a idea where there are two matrixes coexisting and overlapping with each other, one taking in more focus than the other. One matrix being more organized while the other more messy looking."
   },
   {
-    "file": "experiments/grid.js",
-    "name": "Grid 1",
-    "description": "Inspired by Garrits grid example from the lecture I played around with squares and different ways of using random."
+    "file": "experiments/franke.js",
+    "name": "Franke recreation",
+    "description": "Inspired by artwork made by Herbert W. Franke with random generated squares."
   },
   {
-    "file": "experiments/grid2.js",
-    "name": "Grid 2",
-    "description": "Inspired by Garrits grid example from the lecture I modified the first grid artwork and played with stroke weights and how to implement deptness and illusion feel to the art."
+    "file": "experiments/franke2.js",
+    "name": "Franke variation 1",
+    "description": "Inspired by artwork made by Herbert W. Franke but now adding in circles and adding fill to squares only."
   },
   {
-    "file": "experiments/grid3.js",
-    "name": "Grid 3",
-    "description": "Inspired by Garrits grid example from the lecture I modified the grid artwork with random colors and feeling of flatness in comparison to the previous art."
+    "file": "experiments/franke3.js",
+    "name": "Franke variation 2",
+    "description": "Inspired by artwork made by Herbert W. Franke variation with lines instead of circles."
+  },
+  {
+    "file": "experiments/molnar.js",
+    "name": "Molnar recreation",
+    "description": "Inspired by artwork made by Vera Molnár having used grid filled with random messy lines."
+  },
+  {
+    "file": "experiments/molnar2.js",
+    "name": "Molnar variation 1",
+    "description": "Inspired by artwork made by Vera Molnár variation in which when clicking right click on mouse changes the positions of lines and their color"
+  },
+  {
+    "file": "experiments/molnar3.js",
+    "name": "Molnar variation 2",
+    "description": "Inspired by artwork made by Vera Molnár variation where theres more lines generated and use random colors from the color array."
   },
   {
     "file": "experiments/noise.js",
-    "name": "Noise 1",
-    "description": "Inspired by Garrits grid example from the lecture I played around with how to use noise and different colors."
+    "name": "Noise",
+    "description": "Inspired by Garrits example from the lecture using the pure perlin nose technique to create a pattern of different layers of 2 colors, overlapping with eachother."
   },
   {
     "file": "experiments/noise2.js",
     "name": "Noise 2",
-    "description": "Inspired by Garrits grid example from the lecture I modified the previous example and played with noise value and different shapes ."
+    "description": "Inspired by Garrits example from the lecture using the pure perlin nose technique but adding an animation which makes the layers constantly changing between the 2 colors used in first variation, creating a sense of movement."
   }
 ]
