@@ -58,5 +58,20 @@
     "file": "experiments/noise2.js",
     "name": "Noise 2",
     "description": "Inspired by Garrits example from the lecture using the pure perlin nose technique but adding an animation which makes the layers constantly changing between the 2 colors used in first variation, creating a sense of movement."
+  },
+  {
+    "file": "experiments/hobbs.js",
+    "name": "Hobbs",
+    "description": "Using Garrits flow field example code as base and playing around with static imagery inspired by some of Tyler Hobbs'artwork."
+  },
+  {
+    "file": "experiments/hobbs2.js",
+    "name": "Hobbs 2",
+    "description": "Using Garrits flow field example code as base and inspired by some of Tyler Hobbs'artwork I tried including more randomness and motion. Lines draw circle shapes in random locations while leaving trails behind which fade, random colors adding a more artistic touch."
+  },
+  {
+    "file": "experiments/hobbs3.js",
+    "name": "Hobbs 3",
+    "description": "Using Garrits flow field example code as base and inspired by some of Tyler Hobbs'artwork I tried including more randomness and motion but with more complex logics. Now generated lines follow the cursor depending if the cursor is within the canvas borders. If outside of canvas lines are generated randomly and go in a straight direction while they loose that attribute when cursor moves to the canvas."
   }
 ]
