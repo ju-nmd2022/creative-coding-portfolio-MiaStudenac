@@ -73,5 +73,15 @@
     "file": "experiments/hobbs3.js",
     "name": "Hobbs 3",
     "description": "Using Garrits flow field example code as base and inspired by some of Tyler Hobbs'artwork I tried including more randomness and motion but with more complex logics. Now generated lines follow the cursor depending if the cursor is within the canvas borders. If outside of canvas lines are generated randomly and go in a straight direction while they loose that attribute when cursor moves to the canvas."
+  },
+  {
+    "file": "experiments/sound.js",
+    "name": "Hobbs 3",
+    "description": "Using Garrits flow field example code as base and inspired by some of Tyler Hobbs'artwork I tried including more randomness and motion but with more complex logics. Now generated lines follow the cursor depending if the cursor is within the canvas borders. If outside of canvas lines are generated randomly and go in a straight direction while they loose that attribute when cursor moves to the canvas."
+  },
+  {
+    "file": "experiments/hobbs4.js",
+    "name": "Hobbs 3",
+    "description": "Using Garrits flow field example code as base and inspired by some of Tyler Hobbs'artwork I tried including more randomness and motion but with more complex logics. Now generated lines follow the cursor depending if the cursor is within the canvas borders. If outside of canvas lines are generated randomly and go in a straight direction while they loose that attribute when cursor moves to the canvas."
   }
 ]
