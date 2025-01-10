@@ -62,21 +62,21 @@
   {
     "file": "experiments/hobbs.js",
     "name": "Hobbs",
-    "description": "Using Garrits flow field example code as base and playing around with static imagery inspired by some of Tyler Hobbs'artwork."
+    "description": "Using Garrit's flow field example code as a base and playing around with static imagery inspired by some of Tyler Hobbs' artwork."
   },
   {
     "file": "experiments/hobbs2.js",
     "name": "Hobbs 2",
-    "description": "Using Garrits flow field example code as base and inspired by some of Tyler Hobbs'artwork I tried including more randomness and motion. Lines draw circle shapes in random locations while leaving trails behind which fade, random colors adding a more artistic touch."
+    "description": "Using Garrit's flow field example code as a base and inspired by some of Tyler Hobbs' artwork I included more randomness and motion. Lines draw circle shapes in random locations while leaving trails behind which fade. Random colors add a more artistic touch."
   },
   {
     "file": "experiments/hobbs3.js",
     "name": "Hobbs 3",
-    "description": "Using Garrits flow field example code as base and inspired by some of Tyler Hobbs'artwork I tried including more randomness and motion but with more complex logics. Now generated lines follow the cursor depending if the cursor is within the canvas borders. If outside of canvas lines are generated randomly and go in a straight direction while they loose that attribute when cursor moves to the canvas."
+    "description": "Using Garrit's flow field example code as a base and inspired by some of Tyler Hobbs' artwork I added more randomness and motion with more complex logic. Now generated lines follow the cursor depending on whether the cursor is within the canvas borders. If outside the canvas, lines are generated randomly and move in a straight direction, losing that attribute when the cursor moves to the canvas."
   },
   {
     "file": "experiments/hobbs4.js",
     "name": "Hobbs 4",
-    "description": "Using Garrits flow field example code as base and inspired by some of Tyler Hobbs'artwork I tried including more randomness and motion but with more complex logics. Now generated lines follow the cursor depending if the cursor is within the canvas borders. If outside of canvas lines are generated randomly and go in a straight direction while they loose that attribute when cursor moves to the canvas."
+    "description": "Using Garrit's flow field example code as a base and inspired by some of Tyler Hobbs' artwork I added more randomness and motion with additional complex logic. Generated lines follow the cursor and form distinct patterns based on user interaction."
   }
 ]
